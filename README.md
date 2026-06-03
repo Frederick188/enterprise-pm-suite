@@ -186,6 +186,8 @@ mvn spring-boot:run
 
 ### Run Frontend
 
+you can access the frontend repository here: https://github.com/Frederick188/enterprise-frontend
+
 ```bash
 cd frontend
 npm install
